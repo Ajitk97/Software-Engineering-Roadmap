@@ -70,3 +70,9 @@ git	Starts the Git program
 Expected output:
 
 git version 2.xx.x.windows.x
+
+## To verify which github account is connected use the below command
+
+- git remote -v
+
+- git branch -vv. To check which is the local branch & which is the git hub branch connected.
